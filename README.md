@@ -1,2 +1,2 @@
-# Len-s-PIzza-Slice
+# Lens-PIzza-Slice
 Exercise that incorporates all lists into one space. 
